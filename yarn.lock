@@ -9380,10 +9380,10 @@ supports-hyperlinks@^2.0.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-swell-js@^3.10.0:
-  version "3.10.6"
-  resolved "https://registry.npmjs.org/swell-js/-/swell-js-3.10.6.tgz"
-  integrity sha512-v4zDBwax+bTk2NfismA06xK7OU3haJMuhL+hQ/CxNgOC4eUvBGfZCwhWjhTrLnSNaCcsHK1rIV+SyvR7hp13dA==
+swell-js@^3.10.7:
+  version "3.13.0"
+  resolved "https://registry.yarnpkg.com/swell-js/-/swell-js-3.13.0.tgz#896ac1176dca641cf4b41f4b16be054d6daa0ecc"
+  integrity sha512-3v3nzfcAh9qU24Y64JLpKScv5bGS8HW/oW8WGbF2J4b4tbpDJNMfVTaUKpb1hluW20mXiWlpBmiYoKq2nH3Zjg==
   dependencies:
     "@babel/runtime" "7.4.5"
     deepmerge "4.2.2"
@@ -9391,6 +9391,11 @@ swell-js@^3.10.0:
     lodash "4.17.21"
     object-keys-normalizer "1.0.1"
     qs "6.7.0"
+
+swr@^1.0.1:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/swr/-/swr-1.2.2.tgz#6cae09928d30593a7980d80f85823e57468fac5d"
+  integrity sha512-ky0BskS/V47GpW8d6RU7CPsr6J8cr7mQD6+do5eky3bM0IyJaoi3vO8UhvrzJaObuTlGhPl2szodeB2dUd76Xw==
 
 symbol-tree@^3.2.4:
   version "3.2.4"
